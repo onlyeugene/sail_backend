@@ -1,0 +1,14 @@
+Build a dating app
+
+
+REQUIREMENTS
+- Sign Up and Sign in
+- Should have and `interestedIn` Field
+- Should be able to fetch user based on the `interestedIn` Field
+- Route to fetch users or search users based on Hobbbies
+- Route to fetch user details
+- Delete profile later
+- Report a profile
+- Should be able to send and accept love request
+- Should be able to gift a user
+- Message Feature
